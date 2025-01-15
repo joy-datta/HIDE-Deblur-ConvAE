@@ -1,1 +1,1 @@
-# HIDE-Deblur-ConvAE
+# DQKAN
